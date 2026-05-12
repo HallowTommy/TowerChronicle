@@ -1,0 +1,94 @@
+"app.tagline" = "Explore the world's most iconic towers.";
+
+"tab.home" = "Home";
+"tab.explore" = "Explore";
+"tab.map" = "Map";
+"tab.favorites" = "Favorites";
+"tab.info" = "Info";
+
+"onboarding.skip" = "Skip";
+"onboarding.continue" = "Continue";
+"onboarding.start" = "Get Started";
+"onboarding.slide1.title" = "Discover iconic towers around the world";
+"onboarding.slide1.subtitle" = "From classic landmarks to modern record holders.";
+"onboarding.slide2.title" = "Explore famous skyscrapers and historic towers";
+"onboarding.slide2.subtitle" = "Browse 24 legendary buildings from every continent.";
+"onboarding.slide3.title" = "Save your favorite places";
+"onboarding.slide3.subtitle" = "Build your personal collection of must-see towers.";
+"onboarding.slide4.title" = "View towers on the map";
+"onboarding.slide4.subtitle" = "See where each landmark stands across the globe.";
+
+"home.featured" = "Featured tower";
+"home.popular" = "Popular towers";
+"home.see_all" = "Explore more";
+"home.quick.famous" = "Famous Towers";
+"home.quick.cities" = "Iconic Cities";
+"home.quick.favorites" = "Favorites";
+"home.quick.map" = "Map";
+
+"explore.title" = "Explore";
+"explore.search_placeholder" = "Search a tower, a city...";
+"explore.filters" = "Filters";
+"explore.sort" = "Sort";
+"explore.sort.popular" = "Popular";
+"explore.sort.height" = "By height";
+"explore.sort.recent" = "Recent";
+"explore.sort.az" = "A → Z";
+"explore.results_count" = "%d towers found";
+"explore.empty" = "No results. Try another filter.";
+"explore.reset" = "Reset filters";
+"explore.region" = "Region";
+"explore.category" = "Category";
+"explore.region.all" = "All regions";
+"explore.category.all" = "All categories";
+"explore.apply" = "Apply";
+
+"region.europe" = "Europe";
+"region.asia" = "Asia";
+"region.americas" = "Americas";
+"region.africa" = "Africa";
+"region.middle_east" = "Middle East";
+
+"category.famous" = "Famous Towers";
+"category.modern" = "Modern Skyscrapers";
+"category.historic" = "Historic Towers";
+"category.observation" = "Observation Towers";
+"category.record" = "Record Buildings";
+
+"detail.height" = "Height";
+"detail.year" = "Built in";
+"detail.type" = "Type";
+"detail.region" = "Region";
+"detail.category" = "Category";
+"detail.about" = "About this tower";
+"detail.fact" = "Did you know?";
+"detail.add_favorite" = "Add to Favorites";
+"detail.remove_favorite" = "Remove from Favorites";
+"detail.view_map" = "View on Map";
+"detail.meters" = "m";
+
+"map.title" = "World Map";
+"map.callout.open" = "Open card";
+
+"favorites.title" = "Favorites";
+"favorites.empty.title" = "No favorite towers yet";
+"favorites.empty.subtitle" = "Start exploring and save the ones you like.";
+"favorites.empty.cta" = "Start exploring";
+"favorites.delete" = "Delete";
+
+"info.title" = "Info";
+"info.about" = "About app";
+"info.about.body" = "A cartoon-style guide to the world's tallest and most iconic towers. Browse 50 landmarks, save favorites and locate them on a world map.";
+"info.privacy" = "Privacy Policy";
+"info.version" = "Version";
+"info.support" = "Contact support";
+"info.support.subject" = "App Support";
+"info.rate" = "Rate the app";
+"info.share" = "Share";
+"info.credits" = "Illustrations and texts curated with care.";
+
+"common.cancel" = "Cancel";
+"common.done" = "Done";
+"common.close" = "Close";
+"common.back" = "Back";
+"common.loading" = "Loading...";
