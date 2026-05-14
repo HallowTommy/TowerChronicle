@@ -6,8 +6,8 @@ enum AppConfig {
     static let relayWindow: TimeInterval = 12
     static let relayTargets: Set<Int>? = nil
 
-    static let privacyPolicyURL = URL(string: "https://hallowtommy.github.io/tower-explorer-privacy")!
-    static let supportEmail = "mykser9204@icloud.com"
+    static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/27499624-b892-4174-972e-488dfc083bac")!
+    static let supportEmail = "rentrinas@icloud.com"
 
     static var marketingVersion: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "1.0"
